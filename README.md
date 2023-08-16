@@ -28,9 +28,11 @@
 * a scene with existing game assets being worked on can be captured and modified into a new image.
   * ![image](Pictures/2023-08-16%20161438.png)
 
-### Intermediate AI Servers
+### Intermediary  AI Servers
 
-* To easily implement difficult functions, the Unity client does not directly call the AI server, but is carried out through an AI intermediate server.
+* To easily implement difficult functions, the Unity client does not directly call the AI server , but is carried out through an intermediary server.
+  * Unity Client -> Intermediary Servers -> Stable Diffusion Server 
+  
 * contact me if you want to build your own AI server.
 
 * active remote cloud server addresses 
@@ -39,16 +41,29 @@
 * swagger api documentation
   * https://fa16-121-135-219-85.ngrok-free.app/docs
 
-## plans for future
+
+## plans for future 
 
 * all popular features of Text2Image, Image2Image generation
 * personal management of generated images
 * more user friendliness
-* more direct use case for game asset developments
+* more direct use-cases for game developments
+* [Roadmap](Roadmap.md)
 
 ### ToDo
 
-* source code documentations
-* license 
-* llama-index based chatbot
+* [To Do Lists](ToDo.md)
+
+### Features Explained
+
+* [Features](Features.md)
+
+
+### Contributing
+
+* contact me 
+
+### License
+
+* Apache License 
 
