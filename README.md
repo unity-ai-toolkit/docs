@@ -1,6 +1,8 @@
 
 # AI toolkit for Unity v0.1
 
+[한글 문서](README-ko.md)
+
 * Unlock the power of image-generating AI with our latest asset for Unity. This tool seamlessly integrates cutting-edge AI technologies like Stable Diffusion WebUI and LLM-based AI directly into your Unity projects. Elevate your game development with AI-driven visuals and experience the future of gaming today.
 
 ## purpose
