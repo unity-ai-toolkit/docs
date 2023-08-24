@@ -50,6 +50,8 @@
 * Want to bring your game scenes to life? Capture the dynamic motion in your game and explore new possibilities with our texturing experiments!
   * ![image](Pictures/2023-08-18%20021155.png)
 
+### remove background 
+
 
 ### Intermediary  AI Servers
 
@@ -60,10 +62,11 @@
 * contact me if you want to build your own AI server.
 
 * active remote cloud server addresses 
-  * http://34.64.165.75
+  * https://unityaitoolkit.com
+  * you can host the servers in your machine when you have the intermediary AI server and AI servers.
 
 * api documentation in swagger
-  * http://34.64.165.75/docs
+  * https://unityaitoolkit.com/docs
 
 ## plans for future 
 
@@ -88,5 +91,5 @@
 
 ### License
 
-* Apache License is being considered.
+* Apache 2.0 License is being considered.
 
