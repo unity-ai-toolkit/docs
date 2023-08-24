@@ -63,7 +63,7 @@
 
 * active remote cloud server addresses 
   * https://unityaitoolkit.com
-  * you can host the servers in your machine when you have the intermediary AI server and AI servers.
+  * You can host the servers on your own machine when you possess both the intermediary AI server and the AI servers.
 
 * api documentation in swagger
   * https://unityaitoolkit.com/docs
